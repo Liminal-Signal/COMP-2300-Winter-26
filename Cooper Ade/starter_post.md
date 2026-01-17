@@ -1,8 +1,7 @@
 ---
-
 title: "Week 1 - Cooper Ade"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - student
   - comp-2300
