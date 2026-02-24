@@ -20,9 +20,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Media sample
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
-Photo credit: https://unsplash.com/photos/2s3mZ3Qgm2M
+Photo credit: Unsplash
 
 ## Links
 
