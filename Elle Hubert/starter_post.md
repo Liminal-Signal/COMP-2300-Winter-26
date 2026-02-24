@@ -8,19 +8,15 @@ tags:
 ---
 
 # Week 1 - Elle Hubert
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Look at me! I'm a website!
 ## This week
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+I made this! it works! Wow, what a cool website!
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Look at this mallard duck!]([https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?auto=format&fit=crop&w=1200&q=80](https://i.natgeofe.com/k/7ce14b7f-df35-4881-95ae-650bce0adf4d/mallard-male-standing.jpg?wp=1&w=1084.125&h=609)){ .post-photo }
 
-Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Was anyone going to tell me that Darkwing Duck is named "Drake Mallard" because of mallard ducks? Or was I supposed to just figure that out?
