@@ -13,8 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
-
-Video source: https://www.youtube.com/watch?v=LXb3EKWsInQ
+Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)

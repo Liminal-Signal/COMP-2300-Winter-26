@@ -17,10 +17,25 @@ Use this as a copy/paste reference for posts. Paths below are **relative to this
 
 ![Sample image placeholder with a frame and label](media/sample-image.svg)
 
+### Bounded image size (recommended)
+
+Use the `post-photo` class so images don't render too large:
+
+```markdown
+![Sample image placeholder](media/sample-image.svg){ .post-photo }
+```
+
+Size variants:
+
+```markdown
+![Small image](media/sample-image.svg){ .post-photo .post-photo--sm }
+![Large image](media/sample-image.svg){ .post-photo .post-photo--lg }
+```
+
 ### Image with caption
 
 <figure>
-  <img src="media/sample-image.svg" alt="Sample image placeholder with a frame and label">
+  <img class="post-photo" src="media/sample-image.svg" alt="Sample image placeholder with a frame and label">
   <figcaption>Caption text for the image.</figcaption>
 </figure>
 
@@ -35,27 +50,12 @@ You can link to any file you include alongside your post:
 - [Lab report PDF](media/sample-report.pdf)
 - [Dataset ZIP](media/sample-data.zip)
 
-## Video (mkdocs-video plugin)
+## Video
 
-Use the image syntax with a `type:video` marker:
-
-```markdown
-![type:video](media/sample-video.mp4)
-```
-
-You can also embed a hosted player:
+Video embeds are disabled in this site. Link out instead:
 
 ```markdown
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
-```
-
-## Video (HTML embed)
-
-```html
-<video controls width="640">
-  <source src="media/sample-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 ```
 
 ## Audio (HTML embed)

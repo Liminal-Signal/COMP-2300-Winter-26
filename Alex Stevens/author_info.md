@@ -19,11 +19,79 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Media sample
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
-Photo credit: https://unsplash.com/photos/2s3mZ3Qgm2M
+Photo credit: Unsplash
 
 ## Links
 
 - Starter post: starter_post.md
 - Video link: https://www.youtube.com/watch?v=LXb3EKWsInQ
+
+## Feature examples
+
+### Admonitions
+
+!!! note
+    This is a simple note.
+
+!!! warning
+    Be careful with warnings.
+
+??? tip "Expandable"
+    Details can be hidden inside collapsible tips.
+
+### Code highlighting
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+```
+
+```bash
+echo "Hello from the shell"
+```
+
+Inline code like `print("hi")` is also supported.
+
+### Math rendering
+
+Inline math: $E=mc^2$
+
+Block math:
+
+$$
+\int_0^1 x^2 dx = \frac{1}{3}
+$$
+
+### Interactive elements
+
+Task list:
+
+- [x] Write docs
+- [ ] Deploy site
+
+Progress bar:
+
+[=70%]
+
+Tabs:
+
+=== "Python"
+
+    ```python
+    print("Tabs are great!")
+    ```
+
+=== "JavaScript"
+
+    ```javascript
+    console.log("Tabbed code blocks");
+    ```
+
+Details:
+
+??? example "Click to expand"
+    Hidden content inside a collapsible block.
+
+Emoji and keys: :smile: Press ++Ctrl+Shift+P++ to open the command palette.

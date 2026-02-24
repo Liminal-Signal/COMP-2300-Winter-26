@@ -1,7 +1,7 @@
 ---
 title: "Week 1 - Rhys Jones"
 date: 2026-01-16
-publish: true
+publish: false
 tags:
   - notes
   - reflection
@@ -17,11 +17,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
-
-Video source: https://www.youtube.com/watch?v=LXb3EKWsInQ
+Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
