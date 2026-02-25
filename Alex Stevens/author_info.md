@@ -71,27 +71,9 @@ Task list:
 - [x] Write docs
 - [ ] Deploy site
 
-Progress bar:
-
-[=70%]
-
-Tabs:
-
-=== "Python"
-
-    ```python
-    print("Tabs are great!")
-    ```
-
-=== "JavaScript"
-
-    ```javascript
-    console.log("Tabbed code blocks");
-    ```
-
 Details:
 
 ??? example "Click to expand"
     Hidden content inside a collapsible block.
 
-Emoji and keys: :smile: Press ++Ctrl+Shift+P++ to open the command palette.
+END OF AUTHOR INFO
