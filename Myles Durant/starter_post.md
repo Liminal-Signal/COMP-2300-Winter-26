@@ -1,14 +1,13 @@
 ---
-title: "Week 1 - Myles Durant"
+title: "Beneath the Game: Why the NFL Must Replace Turf with Natural Grass"
 date: 2026-01-16
 publish: true
 tags:
   - notes
   - reflection
 ---
-
-# OP-ED - Myles Durant
-
+# Beneath the Game: Why the NFL Must Replace Turf with Natural Grass
+### By Myles Durant
 
 Earlier this fall, when Bengals franchise quarterback Joe Burrow limped off the field with turf toe, it wasn’t the result of an awkward tackle or a dirty hit. It was the playing surface beneath him. In recent years, NFL fans have watched some of their favorite players suffer non-contact lower-body injuries that have the potential to derail seasons and alter careers. In a league built on speed, jukes, and explosive movement, the ground players stand on matters more than we seem to acknowledge.
 
