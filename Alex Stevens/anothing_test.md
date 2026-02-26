@@ -1,7 +1,7 @@
 ---
 title: "A Thought"
 date: 2026-01-14
-publish: true
+publish: false
 tags:
   - thing
   - other
