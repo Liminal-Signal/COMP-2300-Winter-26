@@ -1,6 +1,6 @@
 ---
 
-title: "Cody Kern"
+title: "AI: Hidden Opportunities"
 date: 2026-01-16
 publish: true
 tags:
@@ -8,11 +8,10 @@ tags:
   - contributor
 ---
 
-# Cody Kern
+#
+### By Cody Kern
 
-## Op-Ed
 
-AI: Hidden Opportunities 
 As we start to work our way through another revolution, it is natural to feel a bit uneasy. 
 Similar feelings arose in every revolution that we, as a species, have been through up until now. 
 It is simply human nature; what a lot of us feel currently watching things become more 
