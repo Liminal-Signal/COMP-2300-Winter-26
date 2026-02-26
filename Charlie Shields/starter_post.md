@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Charlie Shields"
+title: "The Digital Expiration Date: Why Your Tech Has a Kill Switch"
 date: 2026-01-16
 publish: true
 tags:
