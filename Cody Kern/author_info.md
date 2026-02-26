@@ -2,7 +2,7 @@
 
 title: "Cody Kern"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - profile
   - contributor
@@ -32,11 +32,18 @@ both companies are leading suppliers of AI-driven technologies AI Chat Builder -
 AWS. Offering AI chatbots at a commercial level. Promoting convenience while neglecting 
 information about the impact of water usage and offering another alternative. Something that 
 could become more common if there isn’t a regulation. 
+
+![Screenshot_26-2-2026_142934_denveru-my sharepoint com](https://github.com/user-attachments/assets/8478ca36-eda7-4f86-b853-3c14f8b3a6e9)
+
 As we can see in the table above, unregulated AI usage is a problem and it appears that 
 China’s president Xi Jinping, has been the first to propose a global regulation AI hub in 
 Shanghai. Without proper regulation of AI, we will continue to see AI fail to live up to its 
 potential. Even less, if companies just see it as an easy way to minimize costs and maximize 
-profit.  
+profit.
+
+![Screenshot_26-2-2026_143136_denveru-my sharepoint com](https://github.com/user-attachments/assets/0965c911-c4aa-4ccb-a9c5-2107a57747eb)
+
+
 A Brief History of Large Language Models - Dataversity Artificial Intelligence uses what 
 is called a Large Language Model, and has been used by the government since as far back as the 
 50’s. With the first chatbot around 1966, these models inherited human biases. Meaning that a lot 
@@ -57,6 +64,10 @@ version possible. According to The Commonwealth Institute’s article ‘Unequal
 students in Virginia’s High Poverty, areas only have access to a third of fully accredited schools 
 that offer the proper courses. Compared to Low Poverty students where almost all schools are 
 fully accredited by the state.  
+
+![Screenshot_26-2-2026_14366_denveru-my sharepoint com](https://github.com/user-attachments/assets/91c2bf39-4e9d-4965-9773-fcc754effa46)
+
+
 It’s important to remember to also not become overly reliant on it, as this could continue 
 to push the state of AI further away from what makes it truly a powerful tool. That is, if we can 
 push for a more regulated form of AI. So that we can teach it, and it can teach us, creating a more 
@@ -77,8 +88,8 @@ for other alternatives to take some of the pressure off the data centers.
 
 ## Media sample
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1470770903676-69b98201ea1c?auto=format&fit=crop&w=1200&q=80){ .post-photo }
-](https://www.dropbox.com/scl/fi/yz3u7ej4lxjngmvm22etj/Coding.jpg?rlkey=0nhyn5x8leb3e30ztlaujfpbw&st=r3e6smje&dl=0){ .post-photo }
+
+![Coding](https://github.com/user-attachments/assets/917379e0-caab-4d82-bef2-1b5b1262c7fa)
 
 
 Photo credit: Unsplash
