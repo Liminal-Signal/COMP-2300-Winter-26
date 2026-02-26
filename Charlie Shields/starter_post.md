@@ -1,9 +1,18 @@
+---
+title: "Week 1 - Charlie Shields"
+date: 2026-01-16
+publish: true
+tags:
+  - notes
+  - reflection
+---
+
 # The Digital Expiration Date: Why Your Tech Has a Kill Switch 
 ### by Charlie Shields
 
 In my drawer sits a 30 year old Game Boy that still boots up and works perfectly. Right next to it is a smart home hub I bought to control some LED lightbulbs. It’s barely three years but now has as much functionality as a bag of bricks. One runs Tetris without complaint; the other can’t even blink its lights. The Game Boy wasn’t built with superior technology, it just isn't on a leash. Our technology isn't breaking, it’s being broken on purpose. Unbeknownst to many, we have entered a strange era where buying a product no longer means you own it. As a recent example, Spotify "remotely detonated" the Car Thing, a portable device people paid $90 for. Spotify told them to just dispose of it, as if it was no longer their problem. $90 down the drain because Spotify didn’t want to pay to keep the servers up.
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)
+<img width="622" height="473" alt="image" src="https://github.com/user-attachments/assets/442167ef-d5e6-48b0-a14b-2872d3fa24bb" />
 
 ## The Illusion of Ownership
 We are letting corporations use terms of service to override our actual property rights. As author Cory Doctorow famously puts it: “if buying isn't owning, then piracy isn't stealing.” Beyond the breach of consumer rights, we are witnessing a massive, manufactured waste of perfectly functional technology.
@@ -12,11 +21,11 @@ When a company bricks a device, they aren't just deleting code. They’re sabota
 ## The Hidden Goldmine in Our Trash
 From a global perspective, this is a massive waste of perfectly functional computers. While a study from the Yale Center for Industrial Ecology shows that total e-waste mass is declining, the complexity of what we’re throwing away is becoming a bigger problem. We are discarding rare materials like cobalt and indium. These are resources that are becoming increasingly concentrated in our waste stream as we move toward mobile devices.
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)
+<img width="1005" height="415" alt="image" src="https://github.com/user-attachments/assets/07efcdf6-b8ae-4f93-9970-2c01412cdb19" />
 
 The irony is that we actually have the resources to be sustainable, it’s just all sitting in our landfills. Visual 3 in the Yale study compares the raw materials needed for new electronics against the amount sitting in our discarded e-waste. By 2018, for materials like gold and indium, the amount we were throwing away actually surpassed what we needed to build new devices. We’ve reached a point where we could theoretically stop mining the earth and just reuse what we already have.
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)
+<img width="637" height="510" alt="image" src="https://github.com/user-attachments/assets/915e24c8-6a59-4c06-9eb7-59f057a2fd12" />
 
 But this renewable potential isn’t possible if we continue the wasteful cycle that hardware locks create. When a company bricks a device, they are sabotaging our ability to reclaim those incredibly valuable materials. Locked software makes it harder to wipe data for reuse or disassemble parts for recycling. 
 
