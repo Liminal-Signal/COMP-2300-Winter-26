@@ -7,12 +7,6 @@ tags:
   - reflection
 ---
 
-# Week 1 - Rhys Jones
-
-Hi, I am a Finance major at the University of Denver with minors in Computer Science and Mathematics. I’m passionate about quantitative finance, portfolio analytics, and building data-driven investment tools.
-
-## OP-ED
-
 # Nuclear Energy Deserves a Second Chance
 
 ### By Rhys Jones
