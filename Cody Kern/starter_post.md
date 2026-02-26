@@ -8,8 +8,8 @@ tags:
   - contributor
 ---
 
-#
-### By Cody Kern
+# AI: Hidden Opportunities
+### by Cody Kern
 
 
 As we start to work our way through another revolution, it is natural to feel a bit uneasy. 
