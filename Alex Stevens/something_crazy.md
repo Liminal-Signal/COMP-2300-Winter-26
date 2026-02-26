@@ -1,7 +1,7 @@
 ---
 title: "On second thought"
 date: 2026-01-16
-publish: true
+publish: false
 tags:
   - notes
   - reflection
