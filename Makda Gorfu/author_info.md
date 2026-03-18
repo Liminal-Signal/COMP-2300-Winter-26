@@ -1,49 +1,7 @@
 ---
 
 title: "Makda Gorfu"
-date: 2026-01-16
-publish: false
-tags:
-  - profile
-  - contributor
----
+date: 2026-03-18
 
 # Makda Gorfu
-
-Op-Ed Summery 
-
- Every day, college students share personal information without realizing how much is being collected. From online learning platforms and campus apps to social media and browsing habits, student data is constantly tracked, stored, and sometimes sold. While technology has improved access to education, it has also created serious risks to privacy.Most students are not fully aware of how much information is collected about them or who has access to it. As technology continues to expand in education, the risks connected to personal data misuse are growing. For this reason, data privacy should be treated as a basic human right in higher education. Colleges must improve protections, require transparency from technology companies, and educate students about how their personal information is used.
-
-Data privacy refers to how personal information is collected, stored, and shared by organizations. It focuses on protecting individuals from having their data misused or exposed without consent. Strong data privacy practices ensure that personal information is handled responsibly and that individuals have control over how their data is used. This means organizations should only collect necessary information and clearly explain their policies. In higher education, however, many platforms collect more data than needed. Learning software tracks student behavior, online activity, and performance details. While some of this information can help improve education, much of it can also be shared or stored without clear limits, putting students at risk.
-
-What makes this situation even more concerning is that students often have no real choice. To complete assignments, attend classes, and access grades, they must use these digital platforms, even if they are uncomfortable with how their data is collected. Privacy policies are usually long, confusing, and rarely read, leaving students unaware of what they are agreeing to.If higher education continues down this path, students will graduate not only with degrees, but with permanent digital records that can be tracked, analyzed, and potentially misused for years to come. Strong privacy protections are not optional, they are necessary to ensure that education remains a place of trust, not surveillance.
-
-Beyond individual risk, weak data privacy practices in higher education raise serious ethical and equity concerns. Students from marginalized or low income backgrounds may be disproportionately affected when their data is collected and analyzed. Predictive analytics and tracking tools can reinforce bias by labeling students as “high risk” or “low performing” based on incomplete data, which may influence advising, financial aid decisions, or academic opportunities. When personal data is used to categorize students rather than support them, it undermines the fairness and purpose of education.
-There are also long term consequences that extend beyond college. Data collected during a student’s academic career does not always disappear after graduation. Stored records can be accessed years later, potentially affecting employment, insurance, or other opportunities. Students rarely know how long their data is kept or whether it can be deleted. Without clear limits on data retention, colleges contribute to a system where personal information follows individuals long after it is relevant.
-Finally, protecting data privacy strengthens the relationship between students and institutions. Colleges are spaces where students should feel safe to explore ideas, express opinions, and make mistakes without fear of constant monitoring. When privacy is respected, students are more likely to participate honestly and engage fully in their education. Treating data privacy as a human right ensures that technology serves learning rather than controlling it, preserving higher education as a space built on trust, autonomy, and respect.
-
-
-<img width="392" height="232" alt="image" src="https://github.com/user-attachments/assets/0eb26913-daee-478f-8670-b1eb5344b0c5" />
-
-This visual displays survey results showing that 91.1% of respondents believe prioritizing data privacy increases trust and loyalty, while only 8.9% disagree. The overwhelming majority demonstrates that people strongly connect privacy protection with confidence in organizations. This indicates that when personal information is respected and protected, individuals feel safer and more willing to engage with institutions.
-
-<img width="395" height="316" alt="Screen Shot 2026-03-17 at 3 09 33 PM" src="https://github.com/user-attachments/assets/a823b6e5-aaee-43a3-8ea0-7bda91cf0f6c" />
-
-
-This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling.This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. This suggests that people want to understand what data is collected, why it is collected, and who has access to it. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling, which shows that people are worried about their data being used for profit rather than protection.In higher education, this is especially important because students are often required to use digital platforms with little choice. These results show that colleges should clearly explain their data policies in simple language, limit unnecessary data collection, and prevent third party companies from exploiting student information. By doing so, institutions can create a safer and more respectful learning environment where students feel protected rather than monitored.
-
-
-
-## Media sample
-
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ec25653f-8d09-40f0-87bd-c19e1b948c0b" />
-
-
-Photo credit: Unsplash
-
-## Links
-
-https://www.ibm.com/think/topics/data-privacy
-https://termly.io/resources/articles/data-privacy-statistics/
-https://studentprivacy.ed.gov/
-https://www.eff.org/issues/student-privacy
+As a first year college student studying Biology with a minor in Computer Science, I experience firsthand how much of my personal information is collected through everyday academic tools. From submitting assignments on learning platforms to communicating through campus systems, I am constantly required to share data in order to participate in my education. While I value the convenience that technology brings, I have also become more aware of the risks it creates, especially when students are not clearly informed about how their information is used. My background in both science and technology has made me more conscious of how data is collected and why it matters, which is why I believe data privacy should be treated as a basic human right in higher education. Like many students, I want to feel that my personal information is respected and protected, not tracked or used without my full understanding. This perspective has shaped my argument that colleges must be more transparent and responsible in how they handle student data, ensuring that education remains a safe and trustworthy environment.
