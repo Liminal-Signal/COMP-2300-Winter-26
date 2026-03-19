@@ -12,19 +12,9 @@ tags:
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Anisha Arumili is a sophomore at the University of Denver studying Computer Science and Vocal Peformance with minors in Business Analytics and Mathematics. She enjoys exploring the intersection of technology and music, and is passionate about learning and discovering new ways to connect her interests.
 
-## Focus
+## Contact
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-## Media sample
-
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
-
-Photo credit: Unsplash
-
-## Links
-
-- Starter post: starter_post.md
-- Video link: https://www.youtube.com/watch?v=LXb3EKWsInQ
+- **Email:** [arumilli.anisha@gmail.com](mailto:arumilli.anisha@gmail.com)  
+- **LinkedIn:** [www.linkedin.com/in/anisha-arumilli-90b6813a3](https://www.linkedin.com/in/anisha-arumilli-90b6813a3)
