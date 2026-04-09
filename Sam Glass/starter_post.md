@@ -3,8 +3,10 @@ title: "Week 1 - Sam Glass"
 date: 2026-01-16
 publish: false
 tags:
-  - notes
-  - reflection
+  - week-1
+  - draft
+  - starter-post
+  - work-in-progress
 ---
 
 # Week 1 - Sam Glass

@@ -3,8 +3,12 @@ title: "Beneath the Game: Why the NFL Must Replace Turf with Natural Grass"
 date: 2026-01-16
 publish: true
 tags:
-  - notes
-  - reflection
+  - op-ed
+  - nfl
+  - player-safety
+  - artificial-turf
+  - natural-grass
+  - sports-policy
 ---
 # Beneath the Game: Why the NFL Must Replace Turf with Natural Grass
 ### By Myles Durant
@@ -43,13 +47,7 @@ Fans deserve to see the best athletes competing at full strength. Players deserv
 
 
 ## Works Cited
-Bell, Jarrett. “NFL Grass vs. Turf Stadiums: Playing Surface Standards Questioned Ahead of 2026 World Cup.” USA Today, 8 Jan. 2026,
-https://www.usatoday.com/story/sports/nfl/columnist/bell/2026/01/08/nfl-grass-vs-turf-stadiums-playing-surface-standards/87687167007/.
-
-Gould, H. P., et al. “Lower Extremity Injury Rates on Artificial Turf Versus Natural Grass Playing Surfaces: A Systematic Review.” PubMed, 2023,
-https://pubmed.ncbi.nlm.nih.gov/35593739/
-
-Mack, Christopher D., et al. “Lower Extremity Injuries in the National Football League: Artificial Turf Versus Natural Grass.” Orthopaedic Journal of Sports Medicine, 2024,https://pmc.ncbi.nlm.nih.gov/articles/PMC11363235/.
-
-National Football League Players Association. “Only Natural Grass Can Level the NFL’s Playing Field.” NFLPA,
-https://nflpa.com/posts/only-natural-grass-can-level-the-nfls-playing-field.
+- Bell, Jarrett. “NFL Grass vs. Turf Stadiums: Playing Surface Standards Questioned Ahead of 2026 World Cup.” USA Today, 8 Jan. 2026. https://www.usatoday.com/story/sports/nfl/columnist/bell/2026/01/08/nfl-grass-vs-turf-stadiums-playing-surface-standards/87687167007/.
+- Gould, H. P., et al. “Lower Extremity Injury Rates on Artificial Turf Versus Natural Grass Playing Surfaces: A Systematic Review.” PubMed, 2023. https://pubmed.ncbi.nlm.nih.gov/35593739/
+- Mack, Christopher D., et al. “Lower Extremity Injuries in the National Football League: Artificial Turf Versus Natural Grass.” Orthopaedic Journal of Sports Medicine, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11363235/.
+- National Football League Players Association. “Only Natural Grass Can Level the NFL’s Playing Field.” NFLPA. https://nflpa.com/posts/only-natural-grass-can-level-the-nfls-playing-field.

@@ -21,7 +21,7 @@ Photo credit: Unsplash
 
 ## Links
 
-- Starter post: starter_post.md
+- Starter post: something_crazy.md
 
 
 ## Feature examples

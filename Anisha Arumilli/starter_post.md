@@ -3,8 +3,12 @@ title: "Week 1 - Anisha Arumilli"
 date: 2026-01-16
 publish: false
 tags:
-  - notes
-  - reflection
+  - op-ed
+  - ai-hiring
+  - algorithmic-bias
+  - recruiting
+  - workplace-equity
+  - admissions
 ---
 
 # Automated Inequality: AI in Tech Recruiting 

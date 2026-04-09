@@ -1,14 +1,23 @@
 ---
 title: "Makda Gorfu OP-ED"
 date: 2026-03-18
+publish: false
+tags:
+  - op-ed
+  - data-privacy
+  - student-privacy
+  - higher-education
+  - digital-rights
+  - ethics
+---
 
-Op-Ed Summery
+# Op-Ed Summery
 
-Every day, college students share personal information without realizing how much is being collected. From online learning platforms and campus apps to social media and browsing habits, student data is constantly tracked, stored, and sometimes sold. While technology has improved access to education, it has also created serious risks to privacy.Most students are not fully aware of how much information is collected about them or who has access to it. As technology continues to expand in education, the risks connected to personal data misuse are growing. For this reason, data privacy should be treated as a basic human right in higher education. Colleges must improve protections, require transparency from technology companies, and educate students about how their personal information is used.
+Every day, college students share personal information without realizing how much is being collected. From online learning platforms and campus apps to social media and browsing habits, student data is constantly tracked, stored, and sometimes sold. While technology has improved access to education, it has also created serious risks to privacy. Most students are not fully aware of how much information is collected about them or who has access to it. As technology continues to expand in education, the risks connected to personal data misuse are growing. For this reason, data privacy should be treated as a basic human right in higher education. Colleges must improve protections, require transparency from technology companies, and educate students about how their personal information is used.
 
 Data privacy refers to how personal information is collected, stored, and shared by organizations. It focuses on protecting individuals from having their data misused or exposed without consent. Strong data privacy practices ensure that personal information is handled responsibly and that individuals have control over how their data is used. This means organizations should only collect necessary information and clearly explain their policies. In higher education, however, many platforms collect more data than needed. Learning software tracks student behavior, online activity, and performance details. While some of this information can help improve education, much of it can also be shared or stored without clear limits, putting students at risk.
 
-What makes this situation even more concerning is that students often have no real choice. To complete assignments, attend classes, and access grades, they must use these digital platforms, even if they are uncomfortable with how their data is collected. Privacy policies are usually long, confusing, and rarely read, leaving students unaware of what they are agreeing to.If higher education continues down this path, students will graduate not only with degrees, but with permanent digital records that can be tracked, analyzed, and potentially misused for years to come. Strong privacy protections are not optional, they are necessary to ensure that education remains a place of trust, not surveillance.
+What makes this situation even more concerning is that students often have no real choice. To complete assignments, attend classes, and access grades, they must use these digital platforms, even if they are uncomfortable with how their data is collected. Privacy policies are usually long, confusing, and rarely read, leaving students unaware of what they are agreeing to. If higher education continues down this path, students will graduate not only with degrees, but with permanent digital records that can be tracked, analyzed, and potentially misused for years to come. Strong privacy protections are not optional, they are necessary to ensure that education remains a place of trust, not surveillance.
 
 Beyond individual risk, weak data privacy practices in higher education raise serious ethical and equity concerns. Students from marginalized or low income backgrounds may be disproportionately affected when their data is collected and analyzed. Predictive analytics and tracking tools can reinforce bias by labeling students as “high risk” or “low performing” based on incomplete data, which may influence advising, financial aid decisions, or academic opportunities. When personal data is used to categorize students rather than support them, it undermines the fairness and purpose of education. There are also long term consequences that extend beyond college. Data collected during a student’s academic career does not always disappear after graduation. Stored records can be accessed years later, potentially affecting employment, insurance, or other opportunities. Students rarely know how long their data is kept or whether it can be deleted. Without clear limits on data retention, colleges contribute to a system where personal information follows individuals long after it is relevant. Finally, protecting data privacy strengthens the relationship between students and institutions. Colleges are spaces where students should feel safe to explore ideas, express opinions, and make mistakes without fear of constant monitoring. When privacy is respected, students are more likely to participate honestly and engage fully in their education. Treating data privacy as a human right ensures that technology serves learning rather than controlling it, preserving higher education as a space built on trust, autonomy, and respect.
 
@@ -18,15 +27,13 @@ This visual displays survey results showing that 91.1% of respondents believe pr
 
 <img width="392" height="296" alt="Screen Shot 2026-03-18 at 5 33 25 PM" src="https://github.com/user-attachments/assets/de8f2704-8d56-4897-90b8-033bd6f5d9be" />
 
-
-This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling.This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. This suggests that people want to understand what data is collected, why it is collected, and who has access to it. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling, which shows that people are worried about their data being used for profit rather than protection.In higher education, this is especially important because students are often required to use digital platforms with little choice. These results show that colleges should clearly explain their data policies in simple language, limit unnecessary data collection, and prevent third party companies from exploiting student information. By doing so, institutions can create a safer and more respectful learning environment where students feel protected rather than monitored.
+This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling. This visual shows what actions consumers believe organizations should take to build trust when handling personal data. The largest portion of respondents selected providing clear information about how data is used, showing that transparency is the most important factor in building trust. This suggests that people want to understand what data is collected, why it is collected, and who has access to it. Other major concerns include stopping the sale of personal information for advertising and ensuring responsible data handling, which shows that people are worried about their data being used for profit rather than protection. In higher education, this is especially important because students are often required to use digital platforms with little choice. These results show that colleges should clearly explain their data policies in simple language, limit unnecessary data collection, and prevent third party companies from exploiting student information. By doing so, institutions can create a safer and more respectful learning environment where students feel protected rather than monitored.
 
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/67afc17d-3c9a-4970-9b2e-4525a9baab80" />
 
-## Links 
-https://www.ibm.com/think/topics/data-privacy
-https://termly.io/resources/articles/data-privacy-statistics/
-https://studentprivacy.ed.gov/
-https://www.eff.org/issues/student-privacy
+## Links
 
-
+- https://www.ibm.com/think/topics/data-privacy
+- https://termly.io/resources/articles/data-privacy-statistics/
+- https://studentprivacy.ed.gov/
+- https://www.eff.org/issues/student-privacy

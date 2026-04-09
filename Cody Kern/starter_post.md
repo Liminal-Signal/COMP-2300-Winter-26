@@ -1,11 +1,14 @@
 ---
-
 title: "AI: Hidden Opportunities"
 date: 2026-01-16
 publish: true
 tags:
-  - profile
-  - contributor
+  - op-ed
+  - ai-regulation
+  - digital-equity
+  - environmental-impact
+  - technology-policy
+  - education-access
 ---
 
 # AI: Hidden Opportunities

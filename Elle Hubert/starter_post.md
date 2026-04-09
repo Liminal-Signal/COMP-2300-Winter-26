@@ -3,8 +3,11 @@ title: "AI is a Bubble Doomed to Pop"
 date: 2026-01-16
 publish: true
 tags:
-  - notes
-  - reflection
+  - op-ed
+  - ai-economics
+  - market-bubble
+  - technology-investment
+  - corporate-risk
 ---
 
 # AI is a Bubble Doomed to Pop

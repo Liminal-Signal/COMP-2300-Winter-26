@@ -3,8 +3,12 @@ title: "The Digital Expiration Date: Why Your Tech Has a Kill Switch"
 date: 2026-01-16
 publish: true
 tags:
-  - notes
-  - reflection
+  - op-ed
+  - right-to-repair
+  - consumer-rights
+  - e-waste
+  - planned-obsolescence
+  - sustainability
 ---
 
 # The Digital Expiration Date: Why Your Tech Has a Kill Switch 

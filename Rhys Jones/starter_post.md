@@ -3,8 +3,12 @@ title: "Nuclear Energy Deserves a Second Chance"
 date: 2026-01-16
 publish: true
 tags:
-  - notes
-  - reflection
+  - op-ed
+  - nuclear-energy
+  - clean-energy
+  - power-grid
+  - energy-policy
+  - ai-energy-demand
 ---
 
 # Nuclear Energy Deserves a Second Chance
@@ -30,18 +34,12 @@ I am not saying that we should build a bunch of nuclear plants everywhere withou
 
 If AI, electric vehicles, and modern technology keep growing at our current pace, the electricity demand will grow with them. Ignoring that reality will not make it go away. Waiting until blackouts or price spikes happen will only make solutions more expensive and rushed. "Global power demand will continue to grow rapidly over the next decade, jumping about 30% by 2035 as electric vehicles, data centers, and the need to heat and cool buildings increases." 
 
-Global power demand seen surging nearly a third by 2035
+*Global power demand seen surging nearly a third by 2035*
 For students, voters, and everyday people who care about clean energy, it might be time to update how we think about nuclear technology. We need to look at it as a tool in a larger clean energy tool kit. 
 
- 
 "The U.S energy mix today is still dominated by oil and natural gas, which together make up over 70% of domestic energy production." U.S. Energy Mix iea.org . The future grid will probably need a mix of wind, solar, hydro, good storage, and nuclear power. The goal of this writing is not to win an energy debate, but to keep our lights on without abusing our planet. I believe nuclear can help us do that safely, and at least deserved to be talked about.
 
- 
-
- 
-
 ## Media check
+
 I've lived on Maui for the past four years!
 ![DSC_4711](https://github.com/user-attachments/assets/ee474623-8bfb-4690-8507-cb13b110dc93)
-
-
