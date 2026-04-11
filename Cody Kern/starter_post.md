@@ -14,72 +14,77 @@ tags:
 # AI: Hidden Opportunities
 ### by Cody Kern
 
+As we start to work our way through another revolution, it is natural to feel a bit uneasy.
+Similar feelings arose in every revolution that we, as a species, have been through up until now.
+It is simply human nature; what a lot of us feel currently watching things become more
+autonomous. It happened during the industrial revolution as well. Though, one thing I would like
+to point out is that we have also learned to adapt to these revolutions and learned to live with
+them. Impact on Society During the Industrial Revolution
+If we look at the history of our media, it is not hard to see why it would be something we
+have learned to fear. Movies like ‘The Matrix’ and ‘Eagle-Eye’ show us what happens when
+Artificial Intelligence gets way to out of hand. Something that should be kept in mind is the
+difference between Artificial Intelligence and Sentience. The AI that we use to automate our
+everyday life seems like it has all the elements of intelligence, but it just simply is not. In fact,
+the biggest need that should be the point of concentration is the need for some sort of regulation
+on it to stop companies from pushing out every automated service they possibly can.
+Not only is this the main cause of concern for the environment, but also for the type of
+information that is being dispersed. Two examples of not having regulations are AWS and IBM;
+both companies are leading suppliers of AI-driven technologies AI Chat Builder - Amazon Lex -
+AWS. Offering AI chatbots at a commercial level. Promoting convenience while neglecting
+information about the impact of water usage and offering another alternative. Something that
+could become more common if there isn’t a regulation.
 
-As we start to work our way through another revolution, it is natural to feel a bit uneasy. 
-Similar feelings arose in every revolution that we, as a species, have been through up until now. 
-It is simply human nature; what a lot of us feel currently watching things become more 
-autonomous. It happened during the industrial revolution as well. Though, one thing I would like 
-to point out is that we have also learned to adapt to these revolutions and learned to live with 
-them. Impact on Society During the Industrial Revolution  
-If we look at the history of our media, it is not hard to see why it would be something we 
-have learned to fear. Movies like ‘The Matrix’ and ‘Eagle-Eye’ show us what happens when 
-Artificial Intelligence gets way to out of hand. Something that should be kept in mind is the 
-difference between Artificial Intelligence and Sentience. The AI that we use to automate our 
-everyday life seems like it has all the elements of intelligence, but it just simply is not. In fact, 
-the biggest need that should be the point of concentration is the need for some sort of regulation 
-on it to stop companies from pushing out every automated service they possibly can.  
-Not only is this the main cause of concern for the environment, but also for the type of 
-information that is being dispersed. Two examples of not having regulations are AWS and IBM; 
-both companies are leading suppliers of AI-driven technologies AI Chat Builder - Amazon Lex - 
-AWS. Offering AI chatbots at a commercial level. Promoting convenience while neglecting 
-information about the impact of water usage and offering another alternative. Something that 
-could become more common if there isn’t a regulation. 
+![Table related to AI regulation trends](https://github.com/user-attachments/assets/8478ca36-eda7-4f86-b853-3c14f8b3a6e9)
 
-![Screenshot_26-2-2026_142934_denveru-my sharepoint com](https://github.com/user-attachments/assets/8478ca36-eda7-4f86-b853-3c14f8b3a6e9)
+*Figure 1: Table used to support the argument for stronger AI regulation.*
 
-As we can see in the table above, unregulated AI usage is a problem and it appears that 
-China’s president Xi Jinping, has been the first to propose a global regulation AI hub in 
-Shanghai. Without proper regulation of AI, we will continue to see AI fail to live up to its 
-potential. Even less, if companies just see it as an easy way to minimize costs and maximize 
+As we can see in the table above, unregulated AI usage is a problem and it appears that
+China’s president Xi Jinping, has been the first to propose a global regulation AI hub in
+Shanghai. Without proper regulation of AI, we will continue to see AI fail to live up to its
+potential. Even less, if companies just see it as an easy way to minimize costs and maximize
 profit.
 
-![Screenshot_26-2-2026_143136_denveru-my sharepoint com](https://github.com/user-attachments/assets/0965c911-c4aa-4ccb-a9c5-2107a57747eb)
+![Visual related to global AI governance proposals](https://github.com/user-attachments/assets/0965c911-c4aa-4ccb-a9c5-2107a57747eb)
+
+*Figure 2: Visual reference for international proposals on coordinated AI governance.*
 
 
-A Brief History of Large Language Models - Dataversity Artificial Intelligence uses what 
-is called a Large Language Model, and has been used by the government since as far back as the 
-50’s. With the first chatbot around 1966, these models inherited human biases. Meaning that a lot 
-of the misconceptions that have been developed over humans' existence have also been coded 
-into these models. This would only go to show just how easily information, and quite frankly AI 
-in general, could continue to become just another useless tool that ends up being more like the 
-movie ‘Idiocracy’.  
-The best and most important thing to prevent a future is that we are overly reliant on AI. 
-We should be pushing for full support of AI regulation, from all levels of the AI community. 
-This includes lawmakers; regulation could, in fact, calm a lot of the concerns surrounding the 
-level to which people are using AI. We should be teaching people how to use AI critically and 
-learn how to collaborate with technology and information. Instead of trying to use it to further 
-the gap between classes. 
-If we consider communities that may not have access to information outside of an 
-internet connection, AI gives information to those communities. However, the importance should 
-not be on the abandonment of AI. Instead, the focus of AI should be on making it the best 
-version possible. According to The Commonwealth Institute’s article ‘Unequal Opportunities’ 
-students in Virginia’s High Poverty, areas only have access to a third of fully accredited schools 
-that offer the proper courses. Compared to Low Poverty students where almost all schools are 
-fully accredited by the state.  
+A Brief History of Large Language Models - Dataversity Artificial Intelligence uses what
+is called a Large Language Model, and has been used by the government since as far back as the
+50’s. With the first chatbot around 1966, these models inherited human biases. Meaning that a lot
+of the misconceptions that have been developed over humans' existence have also been coded
+into these models. This would only go to show just how easily information, and quite frankly AI
+in general, could continue to become just another useless tool that ends up being more like the
+movie ‘Idiocracy’.
+The best and most important thing to prevent a future is that we are overly reliant on AI.
+We should be pushing for full support of AI regulation, from all levels of the AI community.
+This includes lawmakers; regulation could, in fact, calm a lot of the concerns surrounding the
+level to which people are using AI. We should be teaching people how to use AI critically and
+learn how to collaborate with technology and information. Instead of trying to use it to further
+the gap between classes.
+If we consider communities that may not have access to information outside of an
+internet connection, AI gives information to those communities. However, the importance should
+not be on the abandonment of AI. Instead, the focus of AI should be on making it the best
+version possible. According to The Commonwealth Institute’s article ‘Unequal Opportunities’
+students in Virginia’s High Poverty, areas only have access to a third of fully accredited schools
+that offer the proper courses. Compared to Low Poverty students where almost all schools are
+fully accredited by the state.
 
-![Screenshot_26-2-2026_14366_denveru-my sharepoint com](https://github.com/user-attachments/assets/91c2bf39-4e9d-4965-9773-fcc754effa46)
+![Chart about educational inequity and school accreditation](https://github.com/user-attachments/assets/91c2bf39-4e9d-4965-9773-fcc754effa46)
+
+*Figure 3: Chart supporting the discussion of unequal access to accredited education.*
 
 
-It’s important to remember to also not become overly reliant on it, as this could continue 
-to push the state of AI further away from what makes it truly a powerful tool. That is, if we can 
-push for a more regulated form of AI. So that we can teach it, and it can teach us, creating a more 
-collaborative environment. Connecting information from the world's greatest minds to higher 
-poverty areas. Eventually, we could use it as a collaboration partner and could even learn to 
-create a more balanced, unbiased justice system, or a fair, equal health care system. 
-This would require what is known as Artificial Generative Intelligence. Which would still 
-be a far-off expectation with the current state. Currently, Artificial Intelligence will only be as 
-smart and capable as the information that is provided to it. Until then, it is important to 
-understand how to use AI to teach you rather than having it solve the problem for you. 
+It’s important to remember to also not become overly reliant on it, as this could continue
+to push the state of AI further away from what makes it truly a powerful tool. That is, if we can
+push for a more regulated form of AI. So that we can teach it, and it can teach us, creating a more
+collaborative environment. Connecting information from the world's greatest minds to higher
+poverty areas. Eventually, we could use it as a collaboration partner and could even learn to
+create a more balanced, unbiased justice system, or a fair, equal health care system.
+This would require what is known as Artificial Generative Intelligence. Which would still
+be a far-off expectation with the current state. Currently, Artificial Intelligence will only be as
+smart and capable as the information that is provided to it. Until then, it is important to
+understand how to use AI to teach you rather than having it solve the problem for you.
 
 ## Focus
 
@@ -91,12 +96,14 @@ for other alternatives to take some of the pressure off the data centers.
 ## Media sample
 
 
-![Coding](https://github.com/user-attachments/assets/917379e0-caab-4d82-bef2-1b5b1262c7fa)
+![Coding-themed media sample image](https://github.com/user-attachments/assets/917379e0-caab-4d82-bef2-1b5b1262c7fa)
+
+*Figure 4: Media sample image illustrating the post's technology theme.*
 
 
 Photo credit: Unsplash
 
-## Links
+## Sources
 
 - Starter post: starter_post.md
 - Video link: https://www.youtube.com/watch?v=LXb3EKWsInQ

@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Dirk Bosgraaf"
+title: "Convenience vs. Security: Small Habits That Matter"
 date: 2026-01-16
 publish: false
 tags:
@@ -9,7 +9,8 @@ tags:
   - reflection
 ---
 
-# Week 1 - Dirk Bosgraaf
+# Convenience vs. Security: Small Habits That Matter
+### by anonymous
 
 A key takeaway for me this week was that convenience and security are constantly in tension. Most people choose speed by default, even when simple security habits would prevent common problems.
 
@@ -19,7 +20,9 @@ I reviewed my own accounts and switched several services to unique passwords wit
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Security-themed stock image used in media check](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+
+*Figure 1: Media check image supporting the convenience-versus-security theme.*
 
 Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 

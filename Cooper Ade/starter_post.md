@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Cooper Ade"
+title: "Focus by Design: Reducing Digital Distraction"
 date: 2026-01-16
 publish: false
 tags:
@@ -9,7 +9,8 @@ tags:
   - student-life
 ---
 
-# Week 1 - Cooper Ade
+# Focus by Design: Reducing Digital Distraction
+### by anonymous
 
 I started the semester by paying attention to how often technology shapes my focus, not just my schedule. Small tools like calendar reminders and note apps help, but constant notifications can still fragment work time.
 
@@ -19,7 +20,9 @@ The best change I made was using two dedicated study blocks with my phone on Do 
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Focused workspace image used in media check](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+
+*Figure 1: Media check image emphasizing focus and reduced digital distraction.*
 
 Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 

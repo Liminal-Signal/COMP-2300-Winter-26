@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Benson Huang"
+title: "AI as a Coding Partner, Not a Replacement"
 date: 2026-01-16
 publish: false
 tags:
@@ -9,7 +9,8 @@ tags:
   - reflection
 ---
 
-# Week 1 - Benson Huang
+# AI as a Coding Partner, Not a Replacement
+### by anonymous
 
 This week I focused on how AI tools can speed up coding without replacing clear human judgment. The most useful pattern for me was using AI to draft options, then choosing and refining one path myself.
 
@@ -19,7 +20,9 @@ I tested short prompt styles while working on assignments and noticed that preci
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Study setup image used in media check](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+
+*Figure 1: Media check image representing a focused study environment.*
 
 Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
