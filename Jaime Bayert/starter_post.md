@@ -1,7 +1,7 @@
 ---
 title: "Week 1 - Jaime Bayert"
 date: 2026-01-16
-publish: true
+publish: false
 tags:
   - week-1
   - accessibility
