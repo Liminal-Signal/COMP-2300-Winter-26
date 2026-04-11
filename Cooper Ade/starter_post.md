@@ -1,28 +1,28 @@
 ---
 title: "Week 1 - Cooper Ade"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - week-1
-  - draft
-  - starter-post
-  - work-in-progress
+  - technology
+  - productivity
+  - student-life
 ---
 
 # Week 1 - Cooper Ade
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I started the semester by paying attention to how often technology shapes my focus, not just my schedule. Small tools like calendar reminders and note apps help, but constant notifications can still fragment work time.
 
 ## This week
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The best change I made was using two dedicated study blocks with my phone on Do Not Disturb. I finished tasks faster and had a clearer idea of what I actually learned versus what I only skimmed.
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
 Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I want to keep the same routine and measure whether this structure improves assignment quality over the next two weeks.

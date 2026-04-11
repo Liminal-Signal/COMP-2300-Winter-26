@@ -1,30 +1,28 @@
 ---
 title: "Week 1 - Dirk Bosgraaf"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - week-1
-  - draft
-  - starter-post
-  - work-in-progress
+  - cybersecurity
+  - digital-literacy
+  - reflection
 ---
 
 # Week 1 - Dirk Bosgraaf
 
-This is a little testy test!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A key takeaway for me this week was that convenience and security are constantly in tension. Most people choose speed by default, even when simple security habits would prevent common problems.
 
 ## This week
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I reviewed my own accounts and switched several services to unique passwords with a password manager. That small change took under an hour and made my setup much safer than before.
 
 ## Media check
 
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80){ .post-photo }
 
 Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Next, I want to look at phishing case examples and summarize which red flags show up most often.

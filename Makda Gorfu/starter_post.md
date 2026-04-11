@@ -1,7 +1,7 @@
 ---
 title: "Makda Gorfu OP-ED"
 date: 2026-03-18
-publish: false
+publish: true
 tags:
   - op-ed
   - data-privacy

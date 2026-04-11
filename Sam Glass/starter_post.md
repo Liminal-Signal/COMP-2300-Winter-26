@@ -1,21 +1,21 @@
 ---
 title: "Week 1 - Sam Glass"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - week-1
-  - draft
-  - starter-post
-  - work-in-progress
+  - data
+  - ai
+  - critical-thinking
 ---
 
 # Week 1 - Sam Glass
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My main takeaway this week was that data quality decides whether technology helps or misleads. Even smart tools produce weak conclusions when input data is incomplete or biased.
 
 ## This week
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I looked at a few examples where statistics sounded convincing but lacked context. It reinforced how important it is to check source quality before accepting a claim.
 
 ## Media check
 
@@ -25,4 +25,4 @@ Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Next week I plan to keep a short source log for research notes so I can quickly verify where each claim came from.

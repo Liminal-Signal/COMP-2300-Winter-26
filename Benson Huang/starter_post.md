@@ -1,21 +1,21 @@
 ---
 title: "Week 1 - Benson Huang"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - week-1
-  - draft
-  - starter-post
-  - work-in-progress
+  - ai
+  - learning
+  - reflection
 ---
 
 # Week 1 - Benson Huang
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This week I focused on how AI tools can speed up coding without replacing clear human judgment. The most useful pattern for me was using AI to draft options, then choosing and refining one path myself.
 
 ## This week
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I tested short prompt styles while working on assignments and noticed that precise constraints produced much better results than broad prompts. The process felt less like "ask for an answer" and more like "run a fast brainstorming partner."
 
 ## Media check
 
@@ -25,4 +25,4 @@ Video: [Watch on YouTube](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Next up
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Next week I want to compare AI-generated code against my own first draft and track where AI helps most: debugging, outlining, or documentation.

@@ -1,7 +1,7 @@
 ---
 title: "OP-ED - Will Zuzic"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - op-ed
   - healthcare
